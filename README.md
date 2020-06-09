@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Facial Recognition with keras</title>
+    
     <link rel="stylesheet" href="<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">">
 </head>
 <body>
@@ -30,7 +30,7 @@
 <div class="h2 text-success">Work through the project</div>
 <ol>
     <li><p>Create dataset by downloadin images by <span class="text-info">Create_face_dataset.ipynb</span></p><p>
-        To get 1 mont free bing search API Key <a href="#">Click here</a>
+        To get 1 mont free bing search API Key <a href="https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/">Click here</a>
     </p></li>
     <li>
        <span> Extract the faces from downloaded images by  <span class="text-info">Face_Extractor.ipynb</span> </p>
